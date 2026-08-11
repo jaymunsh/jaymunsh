@@ -5,7 +5,7 @@ jaymunsh — full-stack developer
 $ ls ~/stack
 backend/    java  spring-boot  spring  jpa  mybatis
 database/   oracle  mysql  postgresql  redis
-infra/      kubernetes(openshift)  docker  git
+infra/      kubernetes  docker  git
 frontend/   react-native  javascript  jquery  jsp  thymeleaf
 ai/         claude-code  codex
 
