@@ -1,4 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+World!;)](https://git.io/typing-svg)
 ```console
 $ whoami
 jaymunsh — full-stack developer
