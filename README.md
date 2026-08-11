@@ -26,15 +26,3 @@ const jay = {
 }
 ```
 
-<br>
-
-<div align="center">
-
-<img height="140" src="https://github-readme-stats.vercel.app/api?username=jaymunsh&show_icons=true&hide_border=true&hide_title=true&icon_color=666&text_color=888&bg_color=00000000" />
-<img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaymunsh&layout=compact&hide_border=true&hide_title=true&text_color=888&bg_color=00000000" />
-
-<br><br>
-
-[**blog**](https://blog.leneu.cloud) · [**mail**](mailto:sesacstudentone2026@gmail.com)
-
-</div>
