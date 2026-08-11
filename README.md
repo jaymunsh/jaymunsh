@@ -1,6 +1,6 @@
 ```console
 $ whoami
-jaymunsh — full-stack developer
+jaymunsh    full stack developer
 
 $ ls ~/stack
 backend/    java  spring-boot  spring  jpa  mybatis
